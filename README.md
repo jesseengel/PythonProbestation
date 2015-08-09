@@ -1,13 +1,6 @@
 # PythonProbestation
 A python GUI Program for controlling a pulsed probestation setup at Stanford University for my postdoc
 
-Dependencies
-============
-numpy
-wxPython
-PyVisa
-
-
 Installation
 ============
 
@@ -18,3 +11,8 @@ with conda (anaconda package manager). I recommend getting anaconda from [here](
 	conda update conda
 	conda install wxpython
 ```
+
+## Dependencies
+* numpy
+* wxPython
+* PyVisa
